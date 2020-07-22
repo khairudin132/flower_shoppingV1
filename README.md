@@ -4,7 +4,7 @@ This is the prototype of flower shopping online application. User can make an or
 
 ## Design
 
-This is the design that I create by myself using AdobeXD.
+This is the design that I create by myself using AdobeXD. 
 
 ## Implementation
 
