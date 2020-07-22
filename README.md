@@ -4,7 +4,7 @@ This is the prototype of flower shopping online application. User can make an or
 
 ## Design
 
-The UI design for this application was made by myself using Adobe XD. You can check it at under ###Issues.
+The UI design for this application was made by myself using Adobe XD. You can check it at under Issues.
 
 ## Implementation
 
