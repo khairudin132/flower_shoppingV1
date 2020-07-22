@@ -4,8 +4,7 @@ This is the prototype of flower shopping online application. User can make an or
 
 ## Design
 
-This is the design that I create by myself using AdobeXD.
-![flower_info](https://user-images.githubusercontent.com/46196864/88125114-2c63e800-cc01-11ea-8fc1-a7fe9f51e1ba.png)
+The UI design for this application was made by myself using Adobe XD. You can check it at under ###Issues.
 
 ## Implementation
 
