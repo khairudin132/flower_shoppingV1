@@ -1,16 +1,14 @@
 # flowershopping
 
-A new Flutter application.
+This is the prototype of flower shopping online application. User can make an order then can choose whether to make a postage or self-pickup at nearby florist.
 
-## Getting Started
+## Design
 
-This project is a starting point for a Flutter application.
+This is the design that I create by myself using AdobeXD.
 
-A few resources to get you started if this is your first Flutter project:
+## Implementation
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+I build this application using Flutter and Dart as the programming language. I am using Android Studio as the main IDE. This application is not finished yet and still under development.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
