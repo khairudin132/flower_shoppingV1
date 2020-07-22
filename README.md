@@ -2,6 +2,10 @@
 
 This is the prototype of flower shopping online application. User can make an order then can choose whether to make a postage or self-pickup at nearby florist.
 
+## Sneak Peak
+
+
+
 ## Design
 
 The UI design for this application was made by myself using Adobe XD. You can check it at under Issues tab.
